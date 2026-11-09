@@ -1,0 +1,16 @@
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.AssemblyInfoInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.AssemblyInfo.cs
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.exe
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.deps.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.runtimeconfig.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.runtimeconfig.dev.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\bin\Debug\net10.0\Week01.StudentGrades.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\refint\Week01.StudentGrades.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.StudentGrades.genruntimeconfig.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\ref\Week01.StudentGrades.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.StudentGrades\Week01.StudentGrades\obj\Debug\net10.0\Week01.S.256C628B.Up2Date

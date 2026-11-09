@@ -1,0 +1,16 @@
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.exe
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.deps.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.runtimeconfig.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.runtimeconfig.dev.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\bin\Debug\net10.0\Week01.ProgrammingProblims10.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.AssemblyInfoInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.AssemblyInfo.cs
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.csproj.CoreCompileInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\refint\Week01.ProgrammingProblims10.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.ProgrammingProblims10.genruntimeconfig.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\ref\Week01.ProgrammingProblims10.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.ProgrammingProblims10\Week01.ProgrammingProblims10\obj\Debug\net10.0\Week01.P.BF6048D3.Up2Date

@@ -1,0 +1,16 @@
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.exe
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.deps.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.runtimeconfig.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.runtimeconfig.dev.json
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\bin\Debug\net10.0\Week01.Calculator.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.AssemblyInfoInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.AssemblyInfo.cs
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\refint\Week01.Calculator.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.pdb
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.Calculator.genruntimeconfig.cache
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\ref\Week01.Calculator.dll
+C:\Users\jaber\Desktop\Fullstack-internship\Week-01\Week01.Calculator\Week01.Calculator\obj\Debug\net10.0\Week01.C.D55E9907.Up2Date
